@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![LeoK's github stats](https://github-readme-stats.vercel.app/api?username=331leo&count_private=true&hide=stars,prs,issues,contribs)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=331leo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **331leo/331leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
