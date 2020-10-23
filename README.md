@@ -14,7 +14,7 @@
 ![Send mail](https://img.shields.io/badge/-support@leok.kr-63d863?style=flat-square&logo=gmail&logoColor=white&link=mailto:support@leok.kr)
 ![Send mail](https://img.shields.io/badge/-331leo@leok.kr-FF7F50?style=flat-square&logo=gmail&logoColor=white&link=mailto:331leo@leok.kr)
 ![Send mail](https://img.shields.io/badge/-leok@crsd.team-b19cd9?style=flat-square&logo=gmail&logoColor=white&link=mailto:leok@crsd.team)
-![Discord](https://img.shields.io/badge/-Discord-F9C72B?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/HgspAf6)
+
 
 
  <!--
