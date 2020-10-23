@@ -10,6 +10,11 @@
   - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokhome.png"/>](https://leok.kr) Homepage
 ### Teams
   - [<img width="122px" height="28px" src="https://team-crescendo.me/wp-content/uploads/2020/04/%E3%85%81%E3%85%81%E3%85%8178PNG-2x.png"/>](https://team-crescendo.me/) 　[<img aligh="right" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/team-crescendo)
+### Contact 
+![Send mail](https://img.shields.io/badge/-support@leok.kr-63d863?style=flat-square&logo=gmail&logoColor=white&link=mailto:support@leok.kr)
+![Send mail](https://img.shields.io/badge/-331leo@leok.kr-FF7F50?style=flat-square&logo=gmail&logoColor=white&link=mailto:331leo@leok.kr)
+![Send mail](https://img.shields.io/badge/-leok@crsd.team-b19cd9?style=flat-square&logo=gmail&logoColor=white&link=mailto:leok@crsd.team)
+![Discord](https://img.shields.io/badge/-Discord-F9C72B?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/HgspAf6)
 
 
  <!--
