@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![LeoK's github stats](https://github-readme-stats.vercel.app/api?username=331leo&count_private=true&hide=stars,prs,issues,contribs)
+![LeoK's github stats](https://github-readme-stats.vercel.app/api?username=331leo&count_private=true&hide=prs,issues,contribs)
   - There is No Public Repos for now 😞
     - I'am Keep Trying to make Open Sourced Project 😎
 ### My Projects
