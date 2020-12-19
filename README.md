@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ![LeoK's github stats](https://github-readme-stats.vercel.app/api?username=331leo&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dracula)
-  - There's only one Public Repos for now 😞
+  - There's only two Public Repos for now 😞
     - https://github.com/331leo/hcskr_python
+    - https://github.com/331leo/enchanted_ytdl
     - I'am Keep Trying to make a new Open Sourced Project 😎
 ### My Projects
   - [<img align="bottom" width="120px" height="50px" src="https://leok.kr/images/logos/leokbot.png"/>](https://bot.leok.kr) LeoBot (Discord Bot)
