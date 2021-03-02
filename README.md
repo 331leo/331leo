@@ -1,14 +1,17 @@
 ### Hi there 👋
 
 ![LeoK's github stats](https://github-readme-stats.vercel.app/api?username=331leo&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dracula)
-  - There's only two Public Repos for now 😞
+  - Open Sourced Project 😞
     - https://github.com/331leo/hcskr_python
     - https://github.com/331leo/enchanted_ytdl
+    - https://github.com/331leo/AutoCovid-v2
+    - https://github.com/331leo/OnlineShop
+    - https://github.com/331leo/Laftel
     - I'am Keep Trying to make a new Open Sourced Project 😎
 ### My Projects
   - [<img align="bottom" width="120px" height="50px" src="https://leok.kr/images/logos/leokbot.png"/>](https://bot.leok.kr) LeoBot (Discord Bot)
-  - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokurl.png"/>](https://url.leok.kr) URL Shortner
-  - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokautocov.png"/>](https://cov.leok.kr) Auto COVID-Check
+  - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokurl.png"/>](https://url.leok.kr) URL Shortner(CLOSED)
+  - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokautocov.png"/>](https://autocovid.tech) Auto COVID-Check
   - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokhome.png"/>](https://leok.kr) Homepage
 ### Teams
   - [<img width="122px" height="28px" src="https://team-crescendo.me/wp-content/uploads/2020/04/%E3%85%81%E3%85%81%E3%85%8178PNG-2x.png"/>](https://team-crescendo.me/) 　[<img aligh="right" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/team-crescendo)
