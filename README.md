@@ -1,39 +1,23 @@
-### Hi there 👋
+<h2 align="center"><a href="https://leok.kr/about"> About Me 🤓</a></h2>
 
-![LeoK's github stats](https://github-readme-stats.vercel.app/api?username=331leo&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dracula)
-  - Open Sourced Project 😞
-    - https://github.com/331leo/hcskr_python
-    - https://github.com/331leo/enchanted_ytdl
-    - https://github.com/331leo/AutoCovid-v2
-    - https://github.com/331leo/OnlineShop
-    - https://github.com/331leo/Laftel
-    - I'am Keep Trying to make a new Open Sourced Project 😎
-### My Projects
-  - [<img align="bottom" width="120px" height="50px" src="https://leok.kr/images/logos/leokbot.png"/>](https://bot.leok.kr) LeoBot (Discord Bot)
-  - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokurl.png"/>](https://url.leok.kr) URL Shortner(CLOSED)
-  - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokautocov.png"/>](https://autocovid.tech) Auto COVID-Check
-  - [<img width="120px" height="50px" src="https://leok.kr/images/logos/leokhome.png"/>](https://leok.kr) Homepage
-### Teams
-  - [<img width="122px" height="28px" src="https://team-crescendo.me/wp-content/uploads/2020/04/%E3%85%81%E3%85%81%E3%85%8178PNG-2x.png"/>](https://team-crescendo.me/) 　[<img aligh="right" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/team-crescendo)
-### Contact 
-[![Send mail](https://img.shields.io/badge/-support@leok.kr-63d863?style=flat-square&logo=gmail&logoColor=white&link=mailto:support@leok.kr)](mailto:support@leok.kr)
-[![Send mail](https://img.shields.io/badge/-331leo@leok.kr-FF7F50?style=flat-square&logo=gmail&logoColor=white&link=mailto:331leo@leok.kr)](mailto:331leo@leok.kr)
-[![Send mail](https://img.shields.io/badge/-leok@crsd.team-b19cd9?style=flat-square&logo=gmail&logoColor=white&link=mailto:leok@crsd.team)](mailto:leok@crsd.team)
-[![Discord](https://img.shields.io/badge/-Discord-1DA1F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/HgspAf6)](https://discord.gg/HgspAf6)
+<p align="center"><img src="https://raw.githubusercontent.com/331leo/331leo/main/github-metrics.svg" /></p>
 
 
- <!--
-**331leo/331leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center"> 📚 Technology Stack 📚 </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Node.Js-68A063?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/TypeScirpt-007acc?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=Git&logoColor=white"/></a>
+</p>
+
+<h3 align="center"> Contact </h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-me@leok.kr-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:me@leok.kr"/>&nbsp
+<img src="https://img.shields.io/badge/-%EB%A0%88%EC%98%A4%230001-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
+
+</p>
