@@ -1,23 +1,32 @@
-<h2 align="center"><a href="https://leok.kr/about"> About Me 🤓</a></h2>
+<div align="center">
+  <h2>Donghyun Kim</h2>
+  <p>
+    <sub>Aka. Leo Kim</sub><br>
+    Building things that make a difference.<br>
+    <sub>
+      Email: me@leok.kr
+      &nbsp;·&nbsp;
+      Discord: @oreo5leo
+      &nbsp;·&nbsp;
+      Instagram (DM): @k.dh05
+    </sub>
+  </p>
+</div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/331leo/331leo/main/github-metrics.svg" /></p>
+## About
 
+- **[Layable](https://layable.kr)** · Co-founder & Software Developer<br>Layable is rethinking manufacturing through its own production solutions and technology.<br>Building manufacturing automation solutions that streamline production and improve efficiency.
 
+- **[LeoK Service](https://corp.leok.kr)** · Representative<br>LeoK Service provides software development and procurement services for businesses and public institutions.<br>We are building a public procurement system powered by AI agents, connecting tender discovery, sourcing, bidding, and delivery.
 
-<h3 align="center"> 📚 Technology Stack 📚 </h3>
+- **[Hanyang University ERICA](https://hanyang.ac.kr)** · Computer Science Undergraduate
+
+## Highlights
+
+- **2023** · ISEF Systems Software Finalist, representing South Korea
+- **2022** · Korea Code Fair Silver Award
+- **2022** · KIICE Outstanding Student Paper Award
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Node.Js-68A063?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/TypeScirpt-007acc?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=Git&logoColor=white"/></a>
-</p>
-
-<h3 align="center"> Contact </h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-me@leok.kr-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:me@leok.kr"/>&nbsp
-<img src="https://img.shields.io/badge/-%EB%A0%88%EC%98%A4%230001-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
-
+  <a href="https://leok.kr">More about my work &amp; background ↗</a>
 </p>
