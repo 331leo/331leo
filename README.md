@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Donghyun Kim</h2>
+  <h3>Donghyun Kim</h3>
+  <sup>Aka. Leo Kim</sup>
   <p>
-    <sub>Aka. Leo Kim</sub><br>
     Building things that make a difference.<br>
     <sub>
       Email: me@leok.kr
@@ -23,7 +23,7 @@
 
 ## Highlights
 
-- **2023** · ISEF Systems Software Finalist, representing South Korea
+- **2023** · ISEF Systems Software Finalist
 - **2022** · Korea Code Fair Silver Award
 - **2022** · KIICE Outstanding Student Paper Award
 
