@@ -15,7 +15,7 @@
 
 ## About
 
-- **[Layable](https://layable.kr)** · Co-founder & Software Developer<br>Layable is rethinking manufacturing through its own production solutions and technology.<br>Building manufacturing automation solutions that streamline production and improve efficiency.
+- **[Layable Corp.](https://layable.kr)** · Co-founder & Software Developer<br>Layable Corp. is rethinking manufacturing through its own production solutions and technology.<br>Building manufacturing automation solutions that streamline production and improve efficiency.
 
 - **[LeoK Service](https://corp.leok.kr)** · Representative<br>LeoK Service provides software development and procurement services for businesses and public institutions.<br>We are building a public procurement system powered by AI agents, connecting tender discovery, sourcing, bidding, and delivery.
 
